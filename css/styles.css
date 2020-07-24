@@ -1,0 +1,70 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+    background-color:whitesmoke;
+    box-sizing: content-box;
+}
+.sections{
+    margin:20px;
+}
+#button{
+    border: 1px solid white;
+}
+
+.navbar{
+    height: 80px;
+    background-color:red;
+}
+
+#cont{
+margin-left:10px;
+}
+.navbar-brand{
+    color: whitesmoke;    
+    font-size: larger;
+}
+h1{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkred;
+    
+}
+h3{
+    color: darkred;
+    font-weight: bold;
+}
+#Navbar{
+   width: 100%;
+}
+#links{
+    padding: 0;
+    background-color:black;  
+}
+#Navbar>ul>li>a{
+    text-align: center;
+    color:whitesmoke;
+    margin-bottom: 0;
+}
+#Navbar>ul{
+    margin-left: 0px;
+    border: 1px solid whitesmoke;
+}
+a,a:hover{
+    text-decoration: none;
+    color: whitesmoke;
+}
+li{
+    font-size: large;
+    font-weight: bolder;
+    margin-bottom: 2px;
+}
+#l1,#l2{
+    border-bottom: 1px solid whitesmoke;
+}
+.box{
+    background-color:gray;
+    height: 1000px;
+    border:2px solid darkred;
+}
+.row{
+    padding: 3px;
+}
